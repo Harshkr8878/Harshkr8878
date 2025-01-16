@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshkr8878/Harshkr8878/blob/main/GITHUB%20BANNER%20.png)
+![logo](https://github.com/Harshkr8878/Harshkr8878/blob/main/Data%20Analyst%20Linkedin%20Background%20.png)
 <h1 align="center">Hi 👋, I'm Harsh kumar</h1>
 <h3 align="center">A final year engineering student</h3>
 
